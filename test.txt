@@ -14,7 +14,7 @@
 13	中共张家界市纪委	http://www.zjjlz.gov.cn
 14	长沙市数据资源局	http://www.changsha.gov.cn/sjzyglj
 15	湘西州广播电视台	http://www.xxrmt.com
-16	人行长沙中心支行	http://changsha.pbc.gov.cn
+16	长沙职业技术学院	http://cszyedu.cn
 17	岳阳市资源和规划局	http://gtj.yueyang.gov.cn
 18	湘潭市工业和信息化局	http://218.75.241.174:8000/xiangtan_Project/webContent/home/index.html
 19	娄底日报社（娄底新闻网）	http://www.ldnews.cn
