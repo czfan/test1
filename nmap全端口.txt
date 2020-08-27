@@ -100,24 +100,6 @@ Nmap scan report for 113.247.253.56
 9000/tcp  open  cslistener
 51443/tcp open  unknown
 
-Nmap scan report for 222.247.54.154
-80/tcp   open  http
-161/tcp  open  snmp
-443/tcp  open  https
-8080/tcp open  http-proxy
-
-Nmap scan report for 42.156.140.99
-80/tcp  open  http
-443/tcp open  https
-
-Nmap scan report for 42.120.226.4
-80/tcp  open  http
-465/tcp open  smtps
-
-Nmap scan report for 42.120.214.11
-110/tcp open  pop3
-995/tcp open  pop3s
-
 Nmap scan report for 124.232.151.197
 80/tcp   open  http
 443/tcp  open  https
